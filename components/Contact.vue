@@ -3,7 +3,7 @@
       <div class="bg-image py-48 h-screen">
        
       </div>
-      <div class="bg-gray-200 shadow-2xl lg:rounded-md lg:mx-24 mx-8 rounded transform -translate-y-20 bottom-0 left-0 px-8 py-12">
+      <div class="bg-white shadow-2xl lg:rounded-md lg:mx-24 mx-8 rounded transform -translate-y-20 bottom-0 left-0 px-8 py-12">
         <div class="lg:flex lg:flex-row sm:flex sm:flex-col lg:justify-betwen lg:gap-8">
   
           <div class="text-lg sm:text-lg lg:w-2/3">
@@ -76,7 +76,7 @@
           <!-- Map section -->
   
           <div>
-            <div class="bg-gray-100 rounded-lg shadow-lg px-12 items-center">
+            <div class="bg-gray-200 rounded-lg shadow-lg px-12 items-center">
                 <div class="flex flex-col gap-3 pb-4">
             <h1 class="font-bold">Contact details:</h1>
 
@@ -127,7 +127,7 @@
   
   <style scoped>
     .bg-image {
-      background-image: url(../assets/img/st.png);
+      background-image: url(../assets/img/hacker.webp);
       background-size: cover;
       background-position: fixed;
       height: 100%;

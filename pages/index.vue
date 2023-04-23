@@ -52,8 +52,9 @@
             hover:bg-indigo-700
             text-white
             hover:text-white
-            duration-500
-          " target="blank" aria-label="Download Resume">
+            duration-500" 
+            target="_blank" 
+          aria-label="Download Resume">
             <span class="text-sm sm:text-lg font-general-medium duration-100">View Resume</span></a>
         </div>
       </div>
@@ -111,16 +112,16 @@
 
 
             <div class="text-sm sm:text-md text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-3">
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">HTML</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">CSS</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">WordPress</span>
               <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Tailwindcss</span>
               <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Styled-components</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Javascript</span>
               <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Vue</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">HTML</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">CSS</span>
               <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Nuxtjs</span>
               <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Git</span>
               <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">GitHub</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">WordPress</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Javascript</span>
 
             </div>
           </div>

@@ -11,7 +11,7 @@
             </p>
             
               <div>
-            <h1 class="text-white font-extrabold lg:text-2xl text-4xl mt-2 text-left mb-4">Technologies used</h1>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
 
 
             <div class="text-sm sm:text-sm text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -41,81 +41,36 @@
             sm:py-3
             shadow-lg
             rounded-lg
-           bg-white
-            text-black
-            duration-500
-             font-extrabold">View project</a>
-          </div>
-        </div>
-        <div class="bg-color text-white shadow-lg rounded-lg overflow-hidden">
-          <img src="../static/ova-capt1.PNG" alt="" class="w-full h-56">
-          <div class="p-4">
-            <h2 class="text-2xl text-white font-extrabold mb-4">Ova-Africa e-commerce Platform</h2>
-            <p class="text-white text-md mb-2 text-justify">
-              Ova-africa is an online clothing company that specializes in providing a wide range of products to
-              customers.. The website was built using Wordpress, Elementor, and the changes made to it involved editing
-              a few things.</p>
-            
-              <div>
-            <h1 class="text-white font-extrabold lg:text-2xl text-4xl mt-2 text-left mb-4">Technologies used</h1>
-
-
-            <div class="text-sm sm:text-sm text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">HTML</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">CSS</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Elementor</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">PHP</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Woocommerce</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">GoogleAnalytics</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">WordPress</span>
-
-            </div>
-          </div>
-            <a href="https://www.ova-africa.com/" target="blank"
-              class="flex
-            justify-center
-            items-center
-            lg:w-1/4
-            mt-4
-            mb-6
-            sm:mb-0
-            text-md
-            border border-indigo-200
-            dark:border-ternary-dark
-            py-2
-            sm:py-3
-            shadow-lg
-            rounded-lg
-           bg-white
+            bg-white
             text-black
             duration-500
             font-extrabold">View project</a>
           </div>
         </div>
         <div class="bg-color text-white shadow-lg rounded-lg overflow-hidden">
-          <img src="../static/ile-mi-capt1.PNG" alt="" class="w-full h-56">
+          <img src="../assets/img/Kenaya-capt-1.png" alt="" class="w-full h-56">
           <div class="p-4">
-            <h2 class="text-2xl text-white font-extrabold mb-4">Ile-mi e-commerce</h2>
-            <p class="text-white mb-2 text-justify"> Ile-mi is an online marketplace focused on Africa. The website was
-              built using Wordpress, Elementor, and the changes made to it involved editing a few things.
+            <h2 class="text-2xl text-white font-extrabold mb-4">Kenaya Finance</h2>
+            <p class="text-white mb-2 text-justify"> 
+              Kenaya Finance is a congolese money transfer company and foreign exchange office that offers fast, reliable, and affordable money transfer services worldwide. 
             </p>
             
               <div>
-            <h1 class="text-white font-extrabold lg:text-2xl text-4xl mt-2 text-left mb-4">Technologies used</h1>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
 
-
-            <div class="text-sm sm:text-sm text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            <div class="text-sm sm:text-md text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
               <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">HTML</span>
               <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">CSS</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Elementor</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">PHP</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Woocommerce</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">GoogleAnalytics</span>
-              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">WordPress</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Tailwindcss</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Javascript</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Vue</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Nuxtjs</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Git</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">GitHub</span>
 
             </div>
           </div>
-            <a href="https://www.ile-mi.com/" target="blank" class="flex
+            <a href="#" target="blank" class="flex
             justify-center
             items-center
             lg:w-1/4
@@ -136,6 +91,53 @@
               project</a>
           </div>
         </div>
+        <div class="bg-color text-white shadow-lg rounded-lg overflow-hidden">
+          <img src="../static/ova-capt1.PNG" alt="" class="w-full h-56">
+          <div class="p-4">
+            <h2 class="text-2xl text-white font-extrabold mb-4">Ova-Africa e-commerce Platform</h2>
+            <p class="text-white text-md mb-2 text-justify">
+              Ova-africa is an online clothing company that specializes in providing a wide range of products to
+              customers.. The website was built using Wordpress, Elementor, and the changes made to it involved editing
+              a few things.</p>
+            
+              <div>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
+
+
+            <div class="text-sm sm:text-sm text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">HTML</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">CSS</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Elementor</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">PHP</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Woocommerce</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">GoogleAnalytics</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">WordPress</span>
+
+            </div>
+          </div>
+            <a href="https://www.ova-africa.com/" target="blank"
+              class="
+              flex
+            justify-center
+            items-center
+            lg:w-1/4
+            mt-4
+            mb-6
+            sm:mb-0
+            text-md
+            border border-indigo-200
+            dark:border-ternary-dark
+            py-2
+            sm:py-3
+            shadow-lg
+            rounded-lg
+           bg-white
+            text-black
+            duration-500
+            font-extrabold">View project</a>
+          </div>
+        </div>
+        
 
         <div class="bg-color text-white shadow-lg rounded-lg overflow-hidden">
           <img src="../static/manglam-capt1.PNG" alt="" class="w-full h-56">
@@ -148,7 +150,7 @@
               and insurance.
             </p>
             <div>
-            <h1 class="text-white font-extrabold lg:text-2xl text-4xl mt-2 text-left mb-4">Technologies used</h1>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
 
 
             <div class="text-sm sm:text-md text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
@@ -196,7 +198,7 @@
             </p>
             
               <div>
-            <h1 class="text-white font-extrabold lg:text-2xl text-4xl mt-2 text-left mb-4">Technologies used</h1>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
 
 
             <div class="text-sm sm:text-sm text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -243,7 +245,7 @@
             </p>
             
               <div>
-            <h1 class="text-white font-extrabold lg:text-2xl text-4xl mt-2 text-left mb-4">Technologies used</h1>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
 
 
             <div class="text-sm sm:text-sm text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -289,7 +291,7 @@
 
             </p>
             <div>
-            <h1 class="text-white font-extrabold lg:text-2xl text-4xl mt-2 text-left mb-4">Technologies used</h1>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
 
 
             <div class="text-sm sm:text-md text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
@@ -328,15 +330,15 @@
         </div>
 
         <div class="bg-color text-white shadow-lg rounded-lg overflow-hidden">
-          <img src="../static/togoevent-capt1.PNG" alt="" class="w-full h-56">
+          <img src="../assets/img/netflix-clone-capt-1.png" alt="" class="w-full h-56">
           <div class="p-4">
-            <h2 class="text-2xl text-white font-extrabold mb-4"> Togo Events Website</h2>
+            <h2 class="text-2xl text-white font-extrabold mb-4"> Netflix Clone</h2>
             <p class="text-white mb-2 text-justify">
-              Mek's Togo Events is a platform that focuses on organizing events in Togo. Users can buy bus tickets or event tickets through the platform. It is built using HTML, CSS, Nuxt.js, Tailwind CSS, Vuetify, and Laravel.
+              Netflix is a streaming platform that focuses on watch TV and Movies Show . It is built using HTML, CSS, Nuxt.js, Tailwind CSS and Vuetify.
 
             </p>
             <div>
-            <h1 class="text-white font-extrabold lg:text-2xl text-4xl mt-2 text-left mb-4">Technologies used</h1>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
 
 
             <div class="text-sm sm:text-md text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
@@ -351,7 +353,104 @@
 
             </div>
           </div>
-            <a href="https://devkara.karaevents.tg/" target="blank"
+            <a href="#" target="blank"
+              class="flex
+            justify-center
+            items-center
+            lg:w-1/4
+            mt-4
+            mb-6
+            sm:mb-0
+            text-md
+            border border-indigo-200
+            dark:border-ternary-dark
+            py-2
+            sm:py-3
+            shadow-lg
+            rounded-lg
+           bg-white
+            text-black
+            duration-500
+             font-extrabold">View
+              project</a>
+          </div>
+        </div>
+
+
+
+        <div class="bg-color text-white shadow-lg rounded-lg overflow-hidden">
+          <img src="../assets/img/spotify-clone.png" alt="" class="w-full h-56">
+          <div class="p-4">
+            <h2 class="text-2xl text-white font-extrabold mb-4"> Spotify Clone</h2>
+            <p class="text-white mb-2 text-justify">
+              Spotify is a web application that emulates many of the features of the popular music streaming platform, Spotify. Users can search for songs and artists, create and manage playlists, and listen to their favorite tracks. It is built using HTML, CSS, Nuxt.js, Tailwind CSS and Vuetify.
+
+            </p>
+            <div>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
+
+
+            <div class="text-sm sm:text-md text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">HTML</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">CSS</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Tailwindcss</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Javascript</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Vue</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Nuxtjs</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Git</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">GitHub</span>
+
+            </div>
+          </div>
+            <a href="#" target="blank"
+              class="flex
+            justify-center
+            items-center
+            lg:w-1/4
+            mt-4
+            mb-6
+            sm:mb-0
+            text-md
+            border border-indigo-200
+            dark:border-ternary-dark
+            py-2
+            sm:py-3
+            shadow-lg
+            rounded-lg
+           bg-white
+            text-black
+            duration-500
+             font-extrabold">View
+              project</a>
+          </div>
+        </div>
+
+
+
+        <div class="bg-color text-white shadow-lg rounded-lg overflow-hidden">
+          <img src="../assets/img/whatsapp-web-clone.png" alt="" class="w-full h-56">
+          <div class="p-4">
+            <h2 class="text-2xl text-white font-extrabold mb-4"> Whatsapp Web Clone</h2>
+            <p class="text-white mb-2 text-justify">
+              Whatsapp, allowing users to send and receive messages, make voice and video calls, and more, directly from their web browser. Built with modern web technologies, this Whatsapp Web Clone provides a seamless user experience.
+            </p>
+            <div>
+            <h1 class="text-white font-extrabold lg:text-md text-md mt-2 text-left mb-4">Technologies used</h1>
+
+
+            <div class="text-sm sm:text-md text-justify grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">HTML</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">CSS</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Tailwindcss</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-full font-extrabold shadow-2xl">Javascript</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Vue</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Nuxtjs</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">Git</span>
+              <span class="rounded bg-gray-800 p-2 text-center lg:w-1/2 font-extrabold shadow-2xl">GitHub</span>
+
+            </div>
+          </div>
+            <a href="#" target="blank"
               class="flex
             justify-center
             items-center
@@ -383,7 +482,7 @@
 <style scoped>
 
 .bg-color {
-  background-color: #03001C;
+  background-color: #03001cde;
 }
 
 

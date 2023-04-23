@@ -2,9 +2,9 @@
 
 ![screenshot](https://user-images.githubusercontent.com/4316355/89967318-2a4ce200-dc1f-11ea-86e9-2e3dc1d52a2d.jpg)
  -->
-<!-- ## Demo URL -->
-<!-- 
-[https://nuxt-portfolio-starter.netlify.app/](https://nuxt-portfolio-starter.netlify.app/) -->
+## Demo URL
+
+[https://sergetassiga.ova-africa.com/](https://sergetassiga.ova-africa.com/)
 
 ## Features
 

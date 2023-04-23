@@ -1,5 +1,7 @@
 <template>
   <div>
+    <loading></loading>
+
     <div class="lg:px-12 lg:mx-12 flex lg:flex-row flex-col justify-around container py-12 text-white">
       <div class="lg:w-full text-center sm:text-left">
         <div>
@@ -66,7 +68,7 @@
     </div> <!-- end hero -->
 
     <div class="overflow-x-hidden">
-      <div class="container text-xl pb-4 border-t text-xl border-gray-500 border-b  relative" id="about">
+      <div class="container pb-4 border-t border-gray-500 border-b  relative" id="about">
         <h1 class="text-white font-extrabold lg:text-4xl text-4xl mt-2 text-center">About Me</h1>
 
         <p class="text-gray-200 text-md italic mt-2 text-center font-100">You will find a little intro about me and the

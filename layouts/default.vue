@@ -1,5 +1,6 @@
 <template>
   <div class="content-wrapper bg-black font-sans flex flex-col min-h-screen" :class="theme">
+    <nuxt-loading></nuxt-loading>
     <header class="">
       <nav
         class="container mx-auto flex flex-wrap justify-between lg:justify-around items-center py-8 text-white bg-black">
@@ -133,6 +134,11 @@
     },
     mounted() {
 
+      this.$nextTick(() => {
+      this.$nuxt.$loading.start()
+      setTimeout(() => this.$nuxt.$loading.finish(), 500)
+    })
+
       var Tawk_API = Tawk_API || {},
         Tawk_LoadStart = new Date();
       (function () {
@@ -165,5 +171,13 @@
 </script>
 
 <style>
+
+.nuxt-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 99999;
+}
 
 </style>

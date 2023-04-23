@@ -59,6 +59,7 @@ export default {
     '@nuxtjs/axios',
     '@nuxt/content',
     ['vue-scrollto/nuxt', { duration: 500, easing: 'ease' }],
+    
   ],
 
   content: {

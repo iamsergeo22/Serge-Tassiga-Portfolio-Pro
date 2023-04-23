@@ -49,7 +49,7 @@
                     Subject
                   </label>
   
-                  <input type="email" name="email" id="email" placeholder="Project Proposal"
+                  <input type="text" name="text" id="email" placeholder="Project Proposal"
                     class="block w-full bg-white border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4"
                     required>
                 </div>
